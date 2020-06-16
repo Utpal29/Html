@@ -1,2 +1,2 @@
 # Html
-Personal Site, First project using html 
+Introduction to HTML & Intermediate HTML
